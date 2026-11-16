@@ -44,12 +44,11 @@ Open the Excel file and change the blue cells on the Assumptions tab.
 Everything else updates automatically. Check rows should always show 0.
 
 ## Screenshots
-![Summary](summary.png)
+![Summary](<img width="1833" height="930" alt="BillBuddy" src="https://github.com/user-attachments/assets/6557b4f1-e451-43f8-88a8-bd4312a084fd" />
+)
 
 ## What I learned
-[Write 2 or 3 honest sentences in your own words. For example: why a
-startup can lose money while revenue grows, how churn limits growth,
-or how a check row catches mistakes.]
+[How these worksheets connect]
 
 ## Next steps
 - Add CAC, LTV and runway calculations
